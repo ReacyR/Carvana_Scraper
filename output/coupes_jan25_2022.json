@@ -1,0 +1,22 @@
+[
+{"Year": "2014", "Make": "Cadillac", "Model": "ELR", "Trim": "base", "Miles": "76,205", "Price": "$24,990", "Link": "https://www.carvana.com/vehicle/2070012"},
+{"Year": "2013", "Make": "Audi", "Model": "A5", "Trim": "2.0T Premium", "Miles": "38,866", "Price": "$24,590", "Link": "https://www.carvana.com/vehicle/2034460"},
+{"Year": "2010", "Make": "Chevrolet", "Model": "Camaro", "Trim": "LT", "Miles": "98,011", "Price": "$17,590", "Link": "https://www.carvana.com/vehicle/2138222"},
+{"Year": "2010", "Make": "Audi", "Model": "A5", "Trim": "2.0T Quattro Premium", "Miles": "34,019", "Price": "$20,990", "Link": "https://www.carvana.com/vehicle/2189337"},
+{"Year": "2014", "Make": "BMW", "Model": "4 Series", "Trim": "428i xDrive", "Miles": "51,200", "Price": "$24,990", "Link": "https://www.carvana.com/vehicle/2043557"},
+{"Year": "2015", "Make": "BMW", "Model": "4 Series", "Trim": "428i Gran", "Miles": "83,025", "Price": "$22,990", "Link": "https://www.carvana.com/vehicle/2143312"},
+{"Year": "2013", "Make": "Dodge", "Model": "Challenger", "Trim": "Rallye Redline", "Miles": "64,660", "Price": "$23,990", "Link": "https://www.carvana.com/vehicle/2183993"},
+{"Year": "2015", "Make": "BMW", "Model": "4 Series", "Trim": "428i Gran", "Miles": "68,059", "Price": "$24,990", "Link": "https://www.carvana.com/vehicle/2183135"},
+{"Year": "2020", "Make": "Hyundai", "Model": "Veloster", "Trim": "2.0", "Miles": "5,415", "Price": "$24,990", "Link": "https://www.carvana.com/vehicle/2073182"},
+{"Year": "2014", "Make": "BMW", "Model": "2 Series", "Trim": "228i", "Miles": "31,063", "Price": "$24,990", "Link": "https://www.carvana.com/vehicle/2113783"},
+{"Year": "2014", "Make": "Mercedes-Benz", "Model": "C-Class", "Trim": "C 250", "Miles": "72,028", "Price": "$19,990", "Link": "https://www.carvana.com/vehicle/1953290"},
+{"Year": "2015", "Make": "Mercedes-Benz", "Model": "CLA-Class", "Trim": "CLA 250 4MATIC", "Miles": "57,448", "Price": "$24,990", "Link": "https://www.carvana.com/vehicle/2103464"},
+{"Year": "2015", "Make": "BMW", "Model": "2 Series", "Trim": "228i", "Miles": "71,355", "Price": "$20,990", "Link": "https://www.carvana.com/vehicle/2157789"},
+{"Year": "2014", "Make": "BMW", "Model": "4 Series", "Trim": "428i xDrive", "Miles": "53,949", "Price": "$24,990", "Link": "https://www.carvana.com/vehicle/2148922"},
+{"Year": "2011", "Make": "Chevrolet", "Model": "Camaro", "Trim": "LT", "Miles": "42,049", "Price": "$21,990", "Link": "https://www.carvana.com/vehicle/2096643"},
+{"Year": "2012", "Make": "Chevrolet", "Model": "Camaro", "Trim": "LT", "Miles": "59,066", "Price": "$20,990", "Link": "https://www.carvana.com/vehicle/2145101"},
+{"Year": "2020", "Make": "Audi", "Model": "A5", "Trim": "Premium Plus", "Miles": "17,992", "Price": "$45,590", "Link": "https://www.carvana.com/vehicle/2097687"},
+{"Year": "2019", "Make": "Mercedes-Benz", "Model": "CLA", "Trim": "CLA 250 4MATIC", "Miles": "35,770", "Price": "$34,590", "Link": "https://www.carvana.com/vehicle/2064728"},
+{"Year": "2017", "Make": "Chevrolet", "Model": "Camaro", "Trim": "LS", "Miles": "63,555", "Price": "$24,590", "Link": "https://www.carvana.com/vehicle/2046420"},
+{"Year": "2018", "Make": "Mercedes-Benz", "Model": "CLA", "Trim": "CLA 250 4MATIC", "Miles": "31,342", "Price": "$33,990", "Link": "https://www.carvana.com/vehicle/2186083"}
+]
