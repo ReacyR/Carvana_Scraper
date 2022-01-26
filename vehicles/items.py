@@ -20,7 +20,6 @@ def get_trim(trim_mileage):
     
     trim = re.search(r'.*(?=\s\u2022)', trim_mileage)
     trim = trim.group(0)
-
     return trim
 
 

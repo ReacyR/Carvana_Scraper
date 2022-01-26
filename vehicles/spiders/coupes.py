@@ -6,7 +6,8 @@ from scrapy.loader import ItemLoader
 class CoupesSpider(scrapy.Spider):
     name = 'coupes'
     allowed_domains = ['www.carvana.com/']
-    start_urls = ['https://www.carvana.com/cars/coupe/']
+    vehicle_body_style = input('Enter a vehicle body style(options are suv, sedan, hatchback, truck, coupe, convertible, minivan, wagon) here-->')
+    start_urls = [f'https://www.carvana.com/cars/{vehicle_body_style}']
 
     def parse(self, response):
 
